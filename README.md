@@ -2,6 +2,7 @@
 - 👀 I’m interested in books, UX & fishin'
 - 🌱 I’m currently learning pyhon
 - 💞️ I’m looking to collaborate on empire building
+  [rent a boat](https://lugia-boats.com)
 
 
 <!---
